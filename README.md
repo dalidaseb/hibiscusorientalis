@@ -13,7 +13,7 @@ They want to slowly move their code to Git. You are asked to host their sample c
 but also follow best practices introduced in this course and create supporting documents for the open source project including code of conduct, and contributing guidelines. Additionally, the repository should be
 available to the community under the Apache License 2.0.
 
-**Task 1: Submit the URL of the repository (2 pts)**
+**Task 1: Submit the URL of the repository (2 pts)
 0pts: No URL is submitted.
 1pt: Valid URL submitted but the URL is empty.
 2pts: Valid URL submitted and the URL has all the files as expected.
